@@ -145,7 +145,7 @@ require([
           },
           stops: [
             { value: 6, color: [254, 240, 217], label: "4.5 - 6" },
-            { value: 9.5, color: [179, 0, 0], label: ">9" }
+            { value: 10.5, color: [179, 0, 0], label: ">10.5" }
           ]
         }
       ]
